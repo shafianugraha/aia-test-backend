@@ -1,0 +1,18 @@
+{
+  "name": "aia-backend",
+  "version": "1.0.0",
+  "main": "app/app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app/app.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "nodemon": "^2.0.20"
+  }
+}
