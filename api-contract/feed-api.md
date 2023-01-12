@@ -36,8 +36,8 @@ limit: "int" (default: 9)
             "author": "string",
             "author_id": "string",
             "tags": "string"
-        },
-        ...
-    ]
+        }
+    ],
+    "totalPages": "int"
 }
 ```
